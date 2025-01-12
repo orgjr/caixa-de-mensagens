@@ -1,2 +1,2 @@
 # caixa-de-mensagens
-A simple project to train.
+A simple project to practice.
