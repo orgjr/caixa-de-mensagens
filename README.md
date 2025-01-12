@@ -1,2 +1,2 @@
 # caixa-de-mensagens
-A simple project to train some skills and CRUD 
+A simple project to train.
